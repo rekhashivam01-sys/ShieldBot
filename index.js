@@ -48,4 +48,4 @@ client.on('messageCreate', async (message) => {
   }
 });
 
-client.login(process.env.DISCORD_TOKEN);
+client.login(process.env.MTU0Mzk2NDkxMDE3NjY5ODQ1MQ.GjWUzs.F_jLJU3aD-9bwIQ-J3DEirL19c0-0IEix66Ipo);
