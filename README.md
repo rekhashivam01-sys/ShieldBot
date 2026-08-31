@@ -23,7 +23,7 @@ A Discord moderation/automod bot using **prefix commands** (default prefix: `*`)
 
 3. **Configure environment**
    - Copy `.env.example` to `.env`
-   - Paste your bot token into `DISCORD_TOKEN`
+   - Paste your bot token into MTU0Mzk2NDkxMDE3NjY5ODQ1MQ.GjWUzs.F_jLJU3aD-9bwIQ-J3DEirL19c0-0IEix66Ipo
 
 4. **Invite the bot to your server**
    - In the Developer Portal, go to OAuth2 → URL Generator
